@@ -1,0 +1,7 @@
+2025-07-04 14:52:49,933 : INFO : test_moveto_series : 네이버 시리즈
+2025-07-04 14:52:50,682 : INFO : test_refund_cookie : 나의 이용정보
+2025-07-04 14:52:52,105 : INFO : test_refund_cookie : 구매 취소가 완료되었습니다.
+2025-07-04 14:52:54,379 : INFO : test_refund_cookie : 구매 취소가 완료되었습니다.
+2025-07-04 14:52:57,809 : INFO : test_refund_cookie : 환불 가능 내역 없음
+2025-07-07 15:34:45,015 : INFO : test_moveto_series : 네이버 시리즈
+2025-07-07 15:35:15,301 : INFO : test_moveto_series : 네이버 시리즈
